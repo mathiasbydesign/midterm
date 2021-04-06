@@ -1,0 +1,56 @@
+body {
+  background: linear-gradient(45deg, #1f005c, #5b0060, #870160, #ac255e, #ca485c, #e16b5c, #f39060, #ffb56b);
+  font-family: Helvetica, sans-serif;
+}
+#header {
+
+}
+
+td  {
+  text-align: center;
+  }
+
+tr {
+  line-height: 7rem;
+}
+
+.tableHead {
+  line-height: normal;
+}
+
+.logoPosition {
+  text-align: center;
+}
+
+.img-thumbnail {
+  border: none;
+}
+
+.dash {
+  fill: gray;
+}
+
+.check {
+  fill: green;
+}
+
+.card {
+  border: none;
+  border-radius: 20px;
+}
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.card-img {
+  object-fit: fill;
+  height: auto;
+  width: 100%;
+}
+
+div.card-body {
+  filter: opacity(80%);
+}
